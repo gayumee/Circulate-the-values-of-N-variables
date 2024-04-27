@@ -27,8 +27,8 @@ def circulate():
 circulate()
 ```
 ## Output:
-['a','b','c','d','e','f']
-2
+![image](https://github.com/gayumee/Circulate-the-values-of-N-variables/assets/149037327/b9810219-7980-453e-95c3-2f691e34f6d0)
+
 After circulating the values are: ['c', 'd', 'e', 'f', 'a', 'b']
 ## Result:
 Thus circulating the variables in python is done and executed successfully.
